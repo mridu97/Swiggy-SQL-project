@@ -1,1 +1,1 @@
-# Zepto-SQL-project
+# Swiggy-SQL-project
